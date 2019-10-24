@@ -9,7 +9,9 @@ public class Main {
         integer_array[4]=8;
         integer_array[5]=10;
         System.out.println(integer_array.length);
-
+        System.out.println("array done");
+        
+       
         String[] strings_array = new String[20];
         for (int i = 0; i < 10; i++) {
             System.out.println(strings_array.length);
